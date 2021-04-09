@@ -2,18 +2,21 @@
 
 
 ## Hi! 👋
-This is my second PHP task - CRUD Project Manager
+This is my third PHP task - Content Management System
 
 ## About the CMS
+
 ### User
 The main page is for users and it has function to navigate through the menu and view pages.
+
 ### Admin
 To enter the admin page you need to go to http://localhost/sp3/admin. 
 There will be log in form:
 
 Log in information:
-  - username: Roberta
+  - username: Admin
   - password = 1234
+
 ## Features 
 - Login and logout
 - Add pages and content
