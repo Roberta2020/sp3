@@ -1,7 +1,7 @@
 # PHP Content Management System
 
 
-## Good day everybody! 👋
+## Hi! 👋
 This is my second PHP task - CRUD Project Manager
 
 ## About the CMS
