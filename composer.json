@@ -1,0 +1,19 @@
+{
+    "name": "rober/sp3",
+    "description": "CMS project",
+    "authors": [
+        {
+            "name": "Roberta2020",
+            "email": "74533119+Roberta2020@users.noreply.github.com"
+        }
+    ],
+    "require": {
+        "doctrine/orm": "^2.8"
+    },
+    "autoload": {
+        "psr-4": { 
+			"Models\\": "./src/models/"
+		}
+    }
+
+}
